@@ -74,7 +74,7 @@ namespace NavigationMVVMWPF
             Menu.Children.Add(new menuItemsUserControl(itemFacility, this));
             Menu.Children.Add(new menuItemsUserControl(itemPlaces, this));
             Menu.Children.Add(new menuItemsUserControl(Exit, this));
-
+            
             _mainFrame.Navigate(new HomeView());
         }
     }

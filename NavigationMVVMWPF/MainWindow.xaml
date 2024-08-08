@@ -17,7 +17,7 @@
         </Grid.ColumnDefinitions>
         <Grid HorizontalAlignment="Stretch" 
               Grid.Column="0" 
-              Background="LightGray">
+              Background="#274C77">
             <Grid.RowDefinitions>
                 <RowDefinition Height="70"/>
                 <RowDefinition Height="365*"/>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\winformApps\\Wpf\\Navigation_MVVM_WPF_C#\\Navigation_MVVM_WPF_C#\\NavigationMVVMWPF.csproj": {}
+    "C:\\Users\\Dell\\NavigationMVVMWPF\\NavigationMVVMWPF\\NavigationMVVMWPF.csproj": {}
   },
   "projects": {
-    "D:\\winformApps\\Wpf\\Navigation_MVVM_WPF_C#\\Navigation_MVVM_WPF_C#\\NavigationMVVMWPF.csproj": {
+    "C:\\Users\\Dell\\NavigationMVVMWPF\\NavigationMVVMWPF\\NavigationMVVMWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\winformApps\\Wpf\\Navigation_MVVM_WPF_C#\\Navigation_MVVM_WPF_C#\\NavigationMVVMWPF.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\NavigationMVVMWPF\\NavigationMVVMWPF\\NavigationMVVMWPF.csproj",
         "projectName": "NavigationMVVMWPF",
-        "projectPath": "D:\\winformApps\\Wpf\\Navigation_MVVM_WPF_C#\\Navigation_MVVM_WPF_C#\\NavigationMVVMWPF.csproj",
+        "projectPath": "C:\\Users\\Dell\\NavigationMVVMWPF\\NavigationMVVMWPF\\NavigationMVVMWPF.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\winformApps\\Wpf\\Navigation_MVVM_WPF_C#\\Navigation_MVVM_WPF_C#\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\NavigationMVVMWPF\\NavigationMVVMWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Install\\DevExpress22\\Components\\Offline Packages",
