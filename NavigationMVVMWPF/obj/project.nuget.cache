@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGnmxcrUaadHLSFZgecTt+3s+ccoudD3RVZGD3sHoQvXErmCOlaN9cdgFg6uyP+fmZjkgmNV4qLW+XGIsE/YxQ==",
+  "success": true,
+  "projectFilePath": "D:\\winformApps\\Wpf\\Navigation_MVVM_WPF_C#\\Navigation_MVVM_WPF_C#\\NavigationMVVMWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

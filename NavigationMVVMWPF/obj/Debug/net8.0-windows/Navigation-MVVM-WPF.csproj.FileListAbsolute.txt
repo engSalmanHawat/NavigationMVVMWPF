@@ -1,0 +1,1 @@
+D:\winformApps\Wpf\Navigation_MVVM_WPF_C#\Navigation_MVVM_WPF_C#\obj\Debug\net8.0-windows\Navigation-MVVM-WPF.csproj.AssemblyReference.cache
